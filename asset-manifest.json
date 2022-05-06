@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dukaan/static/css/main.efaf9c36.css",
+    "main.js": "/dukaan/static/js/main.bd5cee0c.js",
+    "static/js/787.5cd749ce.chunk.js": "/dukaan/static/js/787.5cd749ce.chunk.js",
+    "static/media/logo.png": "/dukaan/static/media/logo.d5fc9f71921b5c5214c3.png",
+    "static/media/search.png": "/dukaan/static/media/search.8861b03fdd1bf911620d.png",
+    "static/media/privacy-policy.png": "/dukaan/static/media/privacy-policy.4b13c6c07ff371235b3e.png",
+    "static/media/select.png": "/dukaan/static/media/select.7df2d007cc06d7a00f25.png",
+    "static/media/up-arrow.png": "/dukaan/static/media/up-arrow.372bfe014692069fb9aa.png",
+    "static/media/terms-generator.webp": "/dukaan/static/media/terms-generator.8de74d89d04a82a6d055.webp",
+    "static/media/invoice-generator.webp": "/dukaan/static/media/invoice-generator.e7a0723203ea9fc5f547.webp",
+    "index.html": "/dukaan/index.html",
+    "main.efaf9c36.css.map": "/dukaan/static/css/main.efaf9c36.css.map",
+    "main.bd5cee0c.js.map": "/dukaan/static/js/main.bd5cee0c.js.map",
+    "787.5cd749ce.chunk.js.map": "/dukaan/static/js/787.5cd749ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efaf9c36.css",
+    "static/js/main.bd5cee0c.js"
+  ]
+}
