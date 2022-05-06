@@ -1,0 +1,1 @@
+export const data=["This is cozy", "It looks cozy", "Cozy vibes","hais din s jbw ibj di wnnjd jid ajin ssais isnixb ni j"]

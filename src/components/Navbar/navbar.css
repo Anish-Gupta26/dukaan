@@ -1,0 +1,28 @@
+
+.navbar-custom {
+    background-color: #146eb4;
+    color: white;
+}
+.brand{
+    font-weight: 800;
+}
+.logo{
+    height: 32px;
+}
+.sign-in{
+    color: white;
+    font-weight: 600;
+}
+.button-style{
+    background-color: white;
+    color: #146eb4;
+    font-weight: 600;
+}
+.edit{
+    background-color: #146eb4;
+    height: 20vh;
+}
+.button-style:hover{
+    background-color: #146eb4;
+    color: white;
+}
