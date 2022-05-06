@@ -1,0 +1,16 @@
+.features{
+    background-color: rgba(20,110,180,.05);
+}
+.features img{
+    width: 62px;
+    margin: auto;
+}
+.feature{
+    padding: 15px;
+}
+
+@media only screen and (max-width:770px) {
+    .features{
+        justify-content: center;
+    } 
+}

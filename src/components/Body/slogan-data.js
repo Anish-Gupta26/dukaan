@@ -1,1 +1,1 @@
-export const data=["This is cozy", "It looks cozy", "Cozy vibes","hais din s jbw ibj di wnnjd jid ajin ssais isnixb ni j"]
+export const data=["This is cozy just like us", "It looks cozy", "Cozy vibes","Always stay Cozy! Hmmm...","Cozy Party, Cozy Peps","Cozy people make cool products","This is cozy just like us", "It looks cozy", "Cozy vibes","Always stay Cozy! Hmmm...","Cozy Party, Cozy Peps","Cozy people make cool products"]

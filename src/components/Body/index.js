@@ -26,7 +26,7 @@ const Body = () => {
                 )
             })}
         </div>
-
+        <hr className='my-3'/>
     </div>
   )
 }

@@ -1,6 +1,14 @@
 .footer-box{
-    width: 70%;
+    width: 75%;
     display: flex;
     justify-content: space-between;
     margin: auto;
+}
+.pointer{
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 25px;
+}
+.pointer .logo{
+    margin-right: 10px;
 }
