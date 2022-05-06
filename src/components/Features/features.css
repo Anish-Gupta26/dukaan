@@ -1,9 +1,14 @@
 .features{
     background-color: rgba(20,110,180,.05);
+    justify-content: center;
 }
 .features img{
     width: 62px;
     margin: auto;
+}
+.features h1{
+    justify-content: center;
+    font-weight: 600;
 }
 .feature{
     padding: 15px;

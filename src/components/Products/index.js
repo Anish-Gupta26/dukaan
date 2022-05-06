@@ -8,7 +8,7 @@ const Product = () => {
         <h1 className='my-4'>Try Our Other Free Products!</h1>
         {data.map((item)=>{
             return(
-                <div key={item.title} className="card col-md-4 mx-3 card-style my-3">
+                <div key={item.title} className="card col-md-4 mx-3 card-style my-3" data-aos="zoom-out"  data-aos-duration="1000">
                 <img src={item.image} className="card-img-top" alt="..."/>
                     <div className="card-body">
                         <h2 className="card-title">{item.title}</h2>

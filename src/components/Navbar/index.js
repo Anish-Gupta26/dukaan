@@ -5,7 +5,7 @@ const Header = () => {
   const logo = require("../../assets/images/logo.png")
   return (
     <>
-        <nav className="navbar navbar-custom navbar-expand-sm navbar-dark">
+        <nav className="navbar navbar-custom navbar-expand-sm navbar-dark fixed-top p-0">
         <div className="container-fluid container">
             <a className="navbar-brand brand" href="/"><img src={logo} className="logo" alt="logo"/> dukaan</a>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
@@ -14,7 +14,6 @@ const Header = () => {
             <div className="collapse navbar-collapse" id="mynavbar">
             <ul className="navbar-nav me-auto">
                 <li className="nav-item">
-                
                 </li>
             </ul>
             <form className="d-flex">
@@ -24,9 +23,7 @@ const Header = () => {
             </div>
         </div>
         </nav>
-      <div className='edit'>
-        
-      </div>
+      <div className='edit'></div>
       </>
   )
 }
